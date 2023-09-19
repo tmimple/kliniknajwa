@@ -8,7 +8,10 @@
 }
 body{
   min-height: 100vh;
-  background: #E3F2FD;
+  background-image: url("https://cdn.discordapp.com/attachments/1105788819736903700/1153735554186346566/tm.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffffff;
 }
 body, .container, .video-controls, .video-timer, .options{
   display: flex;
